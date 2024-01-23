@@ -1,0 +1,5 @@
+.terraform
+/lambda_zip
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
